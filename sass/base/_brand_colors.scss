@@ -1,0 +1,36 @@
+$black:#24272c;
+$white:#ffffff;
+/* Brand Color's */
+$brand-primary: #f75d34!default;
+$brand-accent:#15a8c2;
+$brand-text:#24272c;
+$brand-bg:#fafafa;
+$brand-promotional:#ffa236;
+$brand-green:#6bad23;
+$brand-tempyellow:#fff4df;
+$brand-blue:#2176ae!default;
+
+$brand-success:#2eae2e;
+$brand-error:#ff1e3c;
+$brand-error-opacity-30:rgba($brand-error,.30);
+
+
+/* Font color's */
+$black-opacity-10:rgba($black,.10);
+$black-opacity-15:rgba($black,.15);
+$black-opacity-20:rgba($black,.20);
+$black-opacity-30:rgba($black,.30);
+$black-opacity-50:rgba($black,.50);
+$black-opacity-70:rgba($black,.70);
+$black-opacity-87:rgba($black,.87);
+
+$white-opacity-15:rgba($white,.15);
+$white-opacity-30:rgba($white,.30);
+$white-opacity-50:rgba($white,.50);
+$white-opacity-70:rgba($white,.70);
+
+$brand-promotional-opacity1-15:rgba($brand-promotional,.15);
+
+/* image server path */
+$imageserver:"https://stimg.cardekho.com/pwa/img/bgimg";
+$imageserver2:"https://stimg.cardekho.com/pwa/img";
